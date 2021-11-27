@@ -1,0 +1,46 @@
+/*Colores*/
+
+.fondo{
+    background-color: #1abc9c;
+}
+.fondoverde{
+    background: #2ecc71;
+}
+.fondorojo{
+    background-color:#e74c3c;
+}
+.fondomorado{
+    background:#a460be;
+}
+.bordeblanco{
+    border:3px solid white;
+}
+
+/*Tamaño*/
+.c1{
+    width: 20%;
+    height: 35px;
+}
+.c2{
+    width: 70%;
+    height: 35px;
+}
+.c3{
+    width:40%;
+    height: 400px;
+}
+.sizesquare{
+    width: 100%;
+}
+.sizeletter{
+    font-size: 35px;
+    font-style:normal;
+}
+
+/*Texto*/
+.centrartexto{
+    text-align: center;
+}
+.letrablanca{
+    color: white;
+}
